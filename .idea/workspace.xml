@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95d3d622-5870-4478-8844-35794e467c42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Dance1/src/main/java/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojava/src/IfElse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellojava/src/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saturday 7/saturday 7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saturday 7/src/ArreyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saturday 7/src/Devision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saturday 7/src/DevisionBy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saturday 7/src/Type10To20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHomeworkWeek6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHomeworkWeek6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hellojava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/PersonalData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hellojava/src/PersonalData.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Kunal/Automation1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="69" column="57" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1234#1235#0" expanded="true" />
+                <element signature="e#1264#1265#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\dev\Raval\src\main\java\Kunal</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Kunal/Automation1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="794" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Raval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Raval" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Raval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Raval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Raval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Raval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Raval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Raval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Raval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Raval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Kunal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Raval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Raval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Resourse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Raval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Raval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Resourse" type="462c0819:PsiDirectoryNode" />
+              <item name="BrowserDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Raval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Raval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Raval" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Raval" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="C:/soft/selenium-server-standalone-3.141.59.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\Raval\src\main\Resourse\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Automation1">
+    <configuration name="Automation1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Raval" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kunal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kunal" />
+      <option name="MAIN_CLASS_NAME" value="Kunal.Automation1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Automation1.userShouldBeAbleToAddTwoBooksToCheckList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Raval" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kunal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kunal" />
+      <option name="MAIN_CLASS_NAME" value="Kunal.Automation1" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToAddTwoBooksToCheckList" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Automation1.userShouldBeAbleToFilterTheJewelry" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Raval" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kunal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kunal" />
+      <option name="MAIN_CLASS_NAME" value="Kunal.Automation1" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToFilterTheJewelry" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Automation1.userShouldBeAbleToNavigateCameraAndPhoto" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Raval" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kunal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kunal" />
+      <option name="MAIN_CLASS_NAME" value="Kunal.Automation1" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToNavigateCameraAndPhoto" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Automation1.userShouldBeAbleToReferProductToFriend" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Raval" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kunal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kunal" />
+      <option name="MAIN_CLASS_NAME" value="Kunal.Automation1" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToReferProductToFriend" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Automation1" />
+        <item itemvalue="TestNG.Automation1.userShouldBeAbleToFilterTheJewelry" />
+        <item itemvalue="TestNG.Automation1.userShouldBeAbleToAddTwoBooksToCheckList" />
+        <item itemvalue="TestNG.Automation1.userShouldBeAbleToReferProductToFriend" />
+        <item itemvalue="TestNG.Automation1.userShouldBeAbleToNavigateCameraAndPhoto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95d3d622-5870-4478-8844-35794e467c42" name="Default Changelist" comment="" />
+      <created>1567882671156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567882671156</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Automation1_userShouldBeAbleToAddTwoBooksToCheckList - 2019.09.11 at 17h 27m 35s.xml">
+      <configuration name="Automation1.userShouldBeAbleToAddTwoBooksToCheckList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Automation1_userShouldBeAbleToAddTwoBooksToCheckList - 2019.09.11 at 17h 29m 20s.xml">
+      <configuration name="Automation1.userShouldBeAbleToAddTwoBooksToCheckList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Automation1_userShouldBeAbleToAddTwoBooksToCheckList - 2019.09.11 at 17h 35m 05s.xml">
+      <configuration name="Automation1.userShouldBeAbleToAddTwoBooksToCheckList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Automation1_userShouldBeAbleToAddTwoBooksToCheckList - 2019.09.11 at 17h 40m 27s.xml">
+      <configuration name="Automation1.userShouldBeAbleToAddTwoBooksToCheckList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Automation1_userShouldBeAbleToAddTwoBooksToCheckList - 2019.09.11 at 17h 41m 20s.xml">
+      <configuration name="Automation1.userShouldBeAbleToAddTwoBooksToCheckList" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Automation1_userShouldBeAbleToFilterTheJewelry - 2019.09.11 at 17h 48m 05s.xml">
+      <configuration name="Automation1.userShouldBeAbleToFilterTheJewelry" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Automation1_userShouldBeAbleToFilterTheJewelry - 2019.09.11 at 17h 58m 49s.xml">
+      <configuration name="Automation1.userShouldBeAbleToFilterTheJewelry" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Automation1_userShouldBeAbleToFilterTheJewelry - 2019.09.11 at 18h 04m 48s.xml">
+      <configuration name="Automation1.userShouldBeAbleToFilterTheJewelry" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Automation1_userShouldBeAbleToFilterTheJewelry - 2019.09.11 at 18h 09m 33s.xml">
+      <configuration name="Automation1.userShouldBeAbleToFilterTheJewelry" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Automation1 - 2019.09.11 at 18h 18m 51s.xml">
+      <configuration name="Automation1" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3797054" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Kunal/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Resourse/BrowserDriver/chromedriver.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Kunal/Automation1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="57" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1234#1235#0" expanded="true" />
+            <element signature="e#1264#1265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>selenium-server-standalone-3.141.59</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
